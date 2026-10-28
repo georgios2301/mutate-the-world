@@ -14,6 +14,7 @@ the UI and the world generator are source files that build into a Roblox place f
 | [docs/MONETIZATION.md](docs/MONETIZATION.md) | How to create the game passes / developer products and plug in their IDs |
 | [docs/TESTING.md](docs/TESTING.md) | What was verified here, the Studio test checklist, acceptance-test status |
 | [docs/LIMITATIONS.md](docs/LIMITATIONS.md) | Known limitations, assets/IDs you may want to supply |
+| [docs/ROADMAP.md](docs/ROADMAP.md) | Fahrplan: Reihenfolge der nächsten Phasen (Deutsch) |
 
 ## Quick start (Roblox Studio)
 
